@@ -1,0 +1,177 @@
+{
+  "subject_name": "Andrew Ng",
+  "reference_date": "2026-10-31",
+  "timing_policy": "retain_validator_signals_without_promoting_to_dated_status",
+  "claims": [
+    {
+      "role": {
+        "title": "Managing General Partner",
+        "organization": "AI Fund"
+      },
+      "timing": "unknown",
+      "timing_assessments_disagree": false,
+      "distinct_source_urls": [
+        "https://www.andrewng.org/"
+      ],
+      "citations": [
+        {
+          "evidence": {
+            "collection_id": "20261031T011259Z-8d5c06",
+            "evidence_id": "E2"
+          },
+          "source_snapshot": "sources/fb034a2b61234600a5dab92f50e094f9.json",
+          "source_url": "https://www.andrewng.org/",
+          "retrieved_at": "2026-10-31T01:13:18.264987+00:00",
+          "role_excerpt": "Managing General Partner at AI Fund",
+          "validator_timing": "unknown",
+          "validator_timing_excerpt": null,
+          "validation_reasons": [
+            "The snapshot contains 'Managing General Partner at AI Fund' on the subject's own site. It is undated and present-tense only, so it does not establish status on the reference date."
+          ]
+        }
+      ]
+    },
+    {
+      "role": {
+        "title": "VP & Chief Scientist",
+        "organization": "Baidu"
+      },
+      "timing": "unknown",
+      "timing_assessments_disagree": false,
+      "distinct_source_urls": [
+        "https://www.andrewng.org/"
+      ],
+      "citations": [
+        {
+          "evidence": {
+            "collection_id": "20261031T011259Z-8d5c06",
+            "evidence_id": "E6"
+          },
+          "source_snapshot": "sources/fb034a2b61234600a5dab92f50e094f9.json",
+          "source_url": "https://www.andrewng.org/",
+          "retrieved_at": "2026-10-31T01:13:18.264987+00:00",
+          "role_excerpt": "He served as VP & Chief Scientist at Baidu",
+          "validator_timing": "historical_as_of_reference",
+          "validator_timing_excerpt": "He served as VP & Chief Scientist at Baidu",
+          "validation_reasons": [
+            "The snapshot states the role in past tense ('He served as'), which describes a completed role rather than a current one, and it appears under the snapshot's past-roles list. No start or end dates are given, so the period is undated, but the past-tense wording supports historical status as of the reference date."
+          ]
+        }
+      ]
+    },
+    {
+      "role": {
+        "title": "Chairman and Co-Founder",
+        "organization": "Coursera"
+      },
+      "timing": "unknown",
+      "timing_assessments_disagree": false,
+      "distinct_source_urls": [
+        "https://www.andrewng.org/"
+      ],
+      "citations": [
+        {
+          "evidence": {
+            "collection_id": "20261031T011259Z-8d5c06",
+            "evidence_id": "E4"
+          },
+          "source_snapshot": "sources/fb034a2b61234600a5dab92f50e094f9.json",
+          "source_url": "https://www.andrewng.org/",
+          "retrieved_at": "2026-10-31T01:13:18.264987+00:00",
+          "role_excerpt": "Chairman and Co-Founder of Coursera",
+          "validator_timing": "unknown",
+          "validator_timing_excerpt": null,
+          "validation_reasons": [
+            "The snapshot contains 'Chairman and Co-Founder of Coursera' with the co-founder qualifier preserved. It is undated and present-tense only, so current status on 2026-10-31 is not established."
+          ]
+        }
+      ]
+    },
+    {
+      "role": {
+        "title": "Founder",
+        "organization": "DeepLearning.AI"
+      },
+      "timing": "unknown",
+      "timing_assessments_disagree": false,
+      "distinct_source_urls": [
+        "https://www.andrewng.org/"
+      ],
+      "citations": [
+        {
+          "evidence": {
+            "collection_id": "20261031T011259Z-8d5c06",
+            "evidence_id": "E1"
+          },
+          "source_snapshot": "sources/fb034a2b61234600a5dab92f50e094f9.json",
+          "source_url": "https://www.andrewng.org/",
+          "retrieved_at": "2026-10-31T01:13:18.264987+00:00",
+          "role_excerpt": "the Founder of DeepLearning.AI",
+          "validator_timing": "unknown",
+          "validator_timing_excerpt": null,
+          "validation_reasons": [
+            "The snapshot lists 'the Founder of DeepLearning.AI' on the subject's own site (the identity anchor URL). The only timing signal is the undated present-tense bio and the snapshot's tense-based grouping, which does not establish current status on 2026-10-31."
+          ]
+        }
+      ]
+    },
+    {
+      "role": {
+        "title": "Executive Chairman",
+        "organization": "LandingAI"
+      },
+      "timing": "unknown",
+      "timing_assessments_disagree": false,
+      "distinct_source_urls": [
+        "https://www.andrewng.org/"
+      ],
+      "citations": [
+        {
+          "evidence": {
+            "collection_id": "20261031T011259Z-8d5c06",
+            "evidence_id": "E3"
+          },
+          "source_snapshot": "sources/fb034a2b61234600a5dab92f50e094f9.json",
+          "source_url": "https://www.andrewng.org/",
+          "retrieved_at": "2026-10-31T01:13:18.264987+00:00",
+          "role_excerpt": "Executive Chairman of LandingAI",
+          "validator_timing": "unknown",
+          "validator_timing_excerpt": null,
+          "validation_reasons": [
+            "The snapshot contains 'Executive Chairman of LandingAI' on the subject's own site. It is undated and present-tense only, so current status on 2026-10-31 is not established."
+          ]
+        }
+      ]
+    },
+    {
+      "role": {
+        "title": "Adjunct Professor",
+        "organization": "Stanford University"
+      },
+      "timing": "unknown",
+      "timing_assessments_disagree": false,
+      "distinct_source_urls": [
+        "https://www.andrewng.org/"
+      ],
+      "citations": [
+        {
+          "evidence": {
+            "collection_id": "20261031T011259Z-8d5c06",
+            "evidence_id": "E5"
+          },
+          "source_snapshot": "sources/fb034a2b61234600a5dab92f50e094f9.json",
+          "source_url": "https://www.andrewng.org/",
+          "retrieved_at": "2026-10-31T01:13:18.264987+00:00",
+          "role_excerpt": "an Adjunct Professor at Stanford University",
+          "validator_timing": "unknown",
+          "validator_timing_excerpt": null,
+          "validation_reasons": [
+            "The snapshot contains 'an Adjunct Professor at Stanford University' on the subject's own site. It is undated and present-tense only, so current status on 2026-10-31 is not established."
+          ]
+        }
+      ]
+    }
+  ],
+  "needs_review": [],
+  "rejected_evidence": []
+}

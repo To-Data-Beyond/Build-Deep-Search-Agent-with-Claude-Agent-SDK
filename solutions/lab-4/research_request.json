@@ -1,0 +1,16 @@
+{
+  "subject_name": "Andrew Ng",
+  "identity_anchor_urls": [
+    "https://www.andrewng.org/"
+  ],
+  "scope": "Identify professional roles supported by primary sources. Separate current and historical roles, and preserve uncertainty about dates.",
+  "reference_date": "2026-10-31",
+  "limits": {
+    "max_rounds": 2,
+    "max_assignments": 4,
+    "max_elapsed_seconds": 300,
+    "max_estimated_cost_usd": 3.0,
+    "max_sources_per_assignment": 3,
+    "max_records_per_assignment": 6
+  }
+}

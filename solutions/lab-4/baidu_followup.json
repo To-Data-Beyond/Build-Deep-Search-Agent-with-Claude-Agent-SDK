@@ -1,0 +1,14 @@
+{
+  "id": "timing_9031f24fef52fa5e",
+  "question": "What dated primary evidence establishes whether Andrew Ng held the role of VP & Chief Scientist at Baidu on 2026-10-31, or establishes a period when the role was held?",
+  "evidence_requirements": [
+    "Find a dated primary passage tying the person, organization, and role to a start date, end date, period, or explicit status on the reference date.",
+    "Keep timing unresolved if the dated passage does not establish it. A retrieval timestamp or undated biography is insufficient.",
+    "Prefer a dated primary source with a documented end date or explicit status on the reference date.",
+    "Already cited for this role: https://www.andrewng.org/. Reuse it only if it adds dated evidence."
+  ],
+  "preferred_source_types": [
+    "official_company_page",
+    "university_profile"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.andrewng.org/",
+  "retrieved_at": "2026-10-31T01:13:11.151708+00:00",
+  "tool_response": {
+    "bytes": 38238,
+    "code": 200,
+    "codeText": "OK",
+    "result": "**Roles, titles, and affiliations**\n\n1. **DeepLearning.AI:** Described as \"Founder of DeepLearning.AI.\" No date given.\n2. **AI Fund:** Described as \"Managing General Partner at AI Fund.\" No date given.\n3. **AI Aspire:** Described as \"Managing Partner at AI Aspire.\" No date given.\n4. **LandingAI:** Described as \"Executive Chairman of LandingAI.\" No date given.\n5. **Coursera:** Described as \"Chairman and Co-Founder of Coursera.\" The company description says Coursera was \"Co-founded by Andrew in 2012.\"\n6. **Stanford University:** Described as \"an Adjunct Professor at Stanford University.\" No date given. The page also says he was \"formerly Director of the Stanford AI Lab,\" with no date.\n7. **Google Brain:** Described as the \"founding lead of the Google Brain team.\" No date given.\n8. **Baidu:** Described as \"VP & Chief Scientist at Baidu.\" No date given. The page says he led a \"1,300-person AI team.\"\n9. **Time100 AI:** He was \"named to the Time100 AI list\" in 2023.\n10. **Education:** The page lists a B.Sc. from CMU, an M.Sc. from MIT, and a Ph.D. from UC Berkeley. No dates given.\n\n**Outbound links to primary sources**\n\n- DeepLearning.AI: https://www.deeplearning.ai/\n- AI Fund: https://aifund.ai/\n- AI Aspire: https://aiaspire.ai/ (the company listing also links to https://www.aiaspire.ai/)\n- LandingAI: https://landing.ai/\n- Coursera: https://www.coursera.org/\n- Twitter (@AndrewYNg): https://twitter.com/AndrewYNg\n- LinkedIn: https://www.linkedin.com/in/andrewyng/\n- AI Andrew: https://avatar.andrewng.org\n\nThe page does not link to Stanford University, Google, Baidu, CMU, MIT, UC Berkeley, or Time.",
+    "durationMs": 8763,
+    "url": "https://www.andrewng.org/"
+  }
+}

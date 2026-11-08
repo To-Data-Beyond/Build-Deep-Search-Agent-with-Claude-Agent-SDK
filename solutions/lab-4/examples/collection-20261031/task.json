@@ -1,0 +1,15 @@
+{
+  "subject_name": "Andrew Ng",
+  "identity_anchor_urls": [
+    "https://www.andrewng.org/"
+  ],
+  "sub_question_id": "professional_roles",
+  "question": "Which professional roles are described by the subject's official website and the primary sources it links to?",
+  "preferred_source_types": [
+    "personal_website",
+    "official_company_page",
+    "university_profile"
+  ],
+  "max_sources": 3,
+  "max_evidence_records": 6
+}

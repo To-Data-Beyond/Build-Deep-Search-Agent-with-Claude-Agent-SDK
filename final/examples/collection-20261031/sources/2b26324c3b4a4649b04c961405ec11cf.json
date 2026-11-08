@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://landing.ai/",
+  "retrieved_at": "2026-10-31T01:13:16.844217+00:00",
+  "tool_response": {
+    "bytes": 226992,
+    "code": 200,
+    "codeText": "OK",
+    "result": "The page does not describe Andrew Ng's role. His name doesn't appear anywhere in the content. The only leadership reference is a \"Leadership\" link under Company, with no names or titles shown.\n\nThe only visible date is the footer copyright, \"2026 \u00a9LandingAI. All rights reserved.\"",
+    "durationMs": 2490,
+    "url": "https://landing.ai/"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "note": "Workshop gold set for the Andrew Ng case. Roles come from his official site; expected_timing is filled only where the period is widely documented. Review before reusing.",
+  "subject_name": "Andrew Ng",
+  "reference_date": "2026-10-31",
+  "roles": [
+    {"organization": "DeepLearning.AI", "title": "Founder", "expected_timing": null},
+    {"organization": "AI Fund", "title": "Managing General Partner", "expected_timing": null},
+    {"organization": "LandingAI", "title": "Executive Chairman", "expected_timing": null},
+    {"organization": "Coursera", "title": "Co-Founder", "expected_timing": null},
+    {"organization": "Stanford", "title": "Adjunct Professor", "expected_timing": null},
+    {"organization": "Baidu", "title": "Chief Scientist", "expected_timing": "historical_as_of_reference"},
+    {"organization": "Google Brain", "title": "Founding lead", "expected_timing": "historical_as_of_reference"}
+  ],
+  "primary_domains": ["andrewng.org", "deeplearning.ai", "aifund.ai", "landing.ai", "coursera.org", "stanford.edu"]
+}

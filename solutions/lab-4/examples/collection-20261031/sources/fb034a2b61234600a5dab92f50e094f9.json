@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.andrewng.org/",
+  "retrieved_at": "2026-10-31T01:13:18.264987+00:00",
+  "tool_response": {
+    "bytes": 38238,
+    "code": 200,
+    "codeText": "OK",
+    "result": "**Current roles** (stated in present tense in the bio):\n- \"the Founder of DeepLearning.AI\"\n- \"Managing General Partner at AI Fund\"\n- \"Managing Partner at AI Aspire\"\n- \"Executive Chairman of LandingAI\"\n- \"Chairman and Co-Founder of Coursera\"\n- \"an Adjunct Professor at Stanford University\"\n\n**Past roles** (stated in past tense):\n- \"He served as VP & Chief Scientist at Baidu\"\n- \"He was formerly Director of the Stanford AI Lab\"\n- \"He was the founding lead of the Google Brain team\"\n\nThe page doesn't use an explicit \"current\" label. I classified the roles above by their tense.",
+    "durationMs": 4356,
+    "url": "https://www.andrewng.org/"
+  }
+}

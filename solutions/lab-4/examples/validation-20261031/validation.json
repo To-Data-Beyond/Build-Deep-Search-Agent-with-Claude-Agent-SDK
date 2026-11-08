@@ -1,0 +1,187 @@
+{
+  "collection_id": "20261031T011259Z-8d5c06",
+  "reference_date": "2026-10-31",
+  "review_basis": "saved_webfetch_response",
+  "decisions": [
+    {
+      "evidence": {
+        "collection_id": "20261031T011259Z-8d5c06",
+        "evidence_id": "E1"
+      },
+      "source_snapshot": "sources/fb034a2b61234600a5dab92f50e094f9.json",
+      "verdict": "accepted",
+      "reasons": [
+        "The snapshot lists 'the Founder of DeepLearning.AI' on the subject's own site (the identity anchor URL). The only timing signal is the undated present-tense bio and the snapshot's tense-based grouping, which does not establish current status on 2026-10-31."
+      ],
+      "assessment": {
+        "evidence_id": "E1",
+        "identity": "matched",
+        "authority": "primary",
+        "role_support": "supported",
+        "role": {
+          "title": "Founder",
+          "organization": "DeepLearning.AI"
+        },
+        "role_excerpt": "the Founder of DeepLearning.AI",
+        "timing": "unknown",
+        "timing_excerpt": null,
+        "reason": "The snapshot lists 'the Founder of DeepLearning.AI' on the subject's own site (the identity anchor URL). The only timing signal is the undated present-tense bio and the snapshot's tense-based grouping, which does not establish current status on 2026-10-31."
+      },
+      "accepted_role": {
+        "title": "Founder",
+        "organization": "DeepLearning.AI"
+      },
+      "timing": "unknown"
+    },
+    {
+      "evidence": {
+        "collection_id": "20261031T011259Z-8d5c06",
+        "evidence_id": "E2"
+      },
+      "source_snapshot": "sources/fb034a2b61234600a5dab92f50e094f9.json",
+      "verdict": "accepted",
+      "reasons": [
+        "The snapshot contains 'Managing General Partner at AI Fund' on the subject's own site. It is undated and present-tense only, so it does not establish status on the reference date."
+      ],
+      "assessment": {
+        "evidence_id": "E2",
+        "identity": "matched",
+        "authority": "primary",
+        "role_support": "supported",
+        "role": {
+          "title": "Managing General Partner",
+          "organization": "AI Fund"
+        },
+        "role_excerpt": "Managing General Partner at AI Fund",
+        "timing": "unknown",
+        "timing_excerpt": null,
+        "reason": "The snapshot contains 'Managing General Partner at AI Fund' on the subject's own site. It is undated and present-tense only, so it does not establish status on the reference date."
+      },
+      "accepted_role": {
+        "title": "Managing General Partner",
+        "organization": "AI Fund"
+      },
+      "timing": "unknown"
+    },
+    {
+      "evidence": {
+        "collection_id": "20261031T011259Z-8d5c06",
+        "evidence_id": "E3"
+      },
+      "source_snapshot": "sources/fb034a2b61234600a5dab92f50e094f9.json",
+      "verdict": "accepted",
+      "reasons": [
+        "The snapshot contains 'Executive Chairman of LandingAI' on the subject's own site. It is undated and present-tense only, so current status on 2026-10-31 is not established."
+      ],
+      "assessment": {
+        "evidence_id": "E3",
+        "identity": "matched",
+        "authority": "primary",
+        "role_support": "supported",
+        "role": {
+          "title": "Executive Chairman",
+          "organization": "LandingAI"
+        },
+        "role_excerpt": "Executive Chairman of LandingAI",
+        "timing": "unknown",
+        "timing_excerpt": null,
+        "reason": "The snapshot contains 'Executive Chairman of LandingAI' on the subject's own site. It is undated and present-tense only, so current status on 2026-10-31 is not established."
+      },
+      "accepted_role": {
+        "title": "Executive Chairman",
+        "organization": "LandingAI"
+      },
+      "timing": "unknown"
+    },
+    {
+      "evidence": {
+        "collection_id": "20261031T011259Z-8d5c06",
+        "evidence_id": "E4"
+      },
+      "source_snapshot": "sources/fb034a2b61234600a5dab92f50e094f9.json",
+      "verdict": "accepted",
+      "reasons": [
+        "The snapshot contains 'Chairman and Co-Founder of Coursera' with the co-founder qualifier preserved. It is undated and present-tense only, so current status on 2026-10-31 is not established."
+      ],
+      "assessment": {
+        "evidence_id": "E4",
+        "identity": "matched",
+        "authority": "primary",
+        "role_support": "supported",
+        "role": {
+          "title": "Chairman and Co-Founder",
+          "organization": "Coursera"
+        },
+        "role_excerpt": "Chairman and Co-Founder of Coursera",
+        "timing": "unknown",
+        "timing_excerpt": null,
+        "reason": "The snapshot contains 'Chairman and Co-Founder of Coursera' with the co-founder qualifier preserved. It is undated and present-tense only, so current status on 2026-10-31 is not established."
+      },
+      "accepted_role": {
+        "title": "Chairman and Co-Founder",
+        "organization": "Coursera"
+      },
+      "timing": "unknown"
+    },
+    {
+      "evidence": {
+        "collection_id": "20261031T011259Z-8d5c06",
+        "evidence_id": "E5"
+      },
+      "source_snapshot": "sources/fb034a2b61234600a5dab92f50e094f9.json",
+      "verdict": "accepted",
+      "reasons": [
+        "The snapshot contains 'an Adjunct Professor at Stanford University' on the subject's own site. It is undated and present-tense only, so current status on 2026-10-31 is not established."
+      ],
+      "assessment": {
+        "evidence_id": "E5",
+        "identity": "matched",
+        "authority": "primary",
+        "role_support": "supported",
+        "role": {
+          "title": "Adjunct Professor",
+          "organization": "Stanford University"
+        },
+        "role_excerpt": "an Adjunct Professor at Stanford University",
+        "timing": "unknown",
+        "timing_excerpt": null,
+        "reason": "The snapshot contains 'an Adjunct Professor at Stanford University' on the subject's own site. It is undated and present-tense only, so current status on 2026-10-31 is not established."
+      },
+      "accepted_role": {
+        "title": "Adjunct Professor",
+        "organization": "Stanford University"
+      },
+      "timing": "unknown"
+    },
+    {
+      "evidence": {
+        "collection_id": "20261031T011259Z-8d5c06",
+        "evidence_id": "E6"
+      },
+      "source_snapshot": "sources/fb034a2b61234600a5dab92f50e094f9.json",
+      "verdict": "accepted",
+      "reasons": [
+        "The snapshot states the role in past tense ('He served as'), which describes a completed role rather than a current one, and it appears under the snapshot's past-roles list. No start or end dates are given, so the period is undated, but the past-tense wording supports historical status as of the reference date."
+      ],
+      "assessment": {
+        "evidence_id": "E6",
+        "identity": "matched",
+        "authority": "primary",
+        "role_support": "supported",
+        "role": {
+          "title": "VP & Chief Scientist",
+          "organization": "Baidu"
+        },
+        "role_excerpt": "He served as VP & Chief Scientist at Baidu",
+        "timing": "historical_as_of_reference",
+        "timing_excerpt": "He served as VP & Chief Scientist at Baidu",
+        "reason": "The snapshot states the role in past tense ('He served as'), which describes a completed role rather than a current one, and it appears under the snapshot's past-roles list. No start or end dates are given, so the period is undated, but the past-tense wording supports historical status as of the reference date."
+      },
+      "accepted_role": {
+        "title": "VP & Chief Scientist",
+        "organization": "Baidu"
+      },
+      "timing": "historical_as_of_reference"
+    }
+  ]
+}

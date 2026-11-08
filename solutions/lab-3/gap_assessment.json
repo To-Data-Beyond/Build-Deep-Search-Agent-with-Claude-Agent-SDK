@@ -1,0 +1,169 @@
+{
+  "subject_name": "Andrew Ng",
+  "reference_date": "2026-10-31",
+  "gaps": [
+    {
+      "id": "timing_9031f24fef52fa5e",
+      "kind": "unresolved_timing",
+      "priority": 2,
+      "role": {
+        "title": "VP & Chief Scientist",
+        "organization": "Baidu"
+      },
+      "evidence_refs": [
+        {
+          "collection_id": "20261031T011259Z-8d5c06",
+          "evidence_id": "E6"
+        }
+      ],
+      "existing_source_urls": [
+        "https://www.andrewng.org/"
+      ],
+      "question": "What dated primary evidence establishes whether Andrew Ng held the role of VP & Chief Scientist at Baidu on 2026-10-31, or establishes a period when the role was held?",
+      "evidence_requirements": [
+        "Find a dated primary passage tying the person, organization, and role to a start date, end date, period, or explicit status on the reference date.",
+        "Keep timing unresolved if the dated passage does not establish it. A retrieval timestamp or undated biography is insufficient."
+      ],
+      "preferred_source_types": [
+        "official_company_page",
+        "university_profile"
+      ]
+    },
+    {
+      "id": "timing_cd26a27b38781786",
+      "kind": "unresolved_timing",
+      "priority": 3,
+      "role": {
+        "title": "Managing General Partner",
+        "organization": "AI Fund"
+      },
+      "evidence_refs": [
+        {
+          "collection_id": "20261031T011259Z-8d5c06",
+          "evidence_id": "E2"
+        }
+      ],
+      "existing_source_urls": [
+        "https://www.andrewng.org/"
+      ],
+      "question": "What dated primary evidence establishes whether Andrew Ng held the role of Managing General Partner at AI Fund on 2026-10-31, or establishes a period when the role was held?",
+      "evidence_requirements": [
+        "Find a dated primary passage tying the person, organization, and role to a start date, end date, period, or explicit status on the reference date.",
+        "Keep timing unresolved if the dated passage does not establish it. A retrieval timestamp or undated biography is insufficient."
+      ],
+      "preferred_source_types": [
+        "official_company_page",
+        "university_profile"
+      ]
+    },
+    {
+      "id": "timing_9370cd98f411f50c",
+      "kind": "unresolved_timing",
+      "priority": 3,
+      "role": {
+        "title": "Chairman and Co-Founder",
+        "organization": "Coursera"
+      },
+      "evidence_refs": [
+        {
+          "collection_id": "20261031T011259Z-8d5c06",
+          "evidence_id": "E4"
+        }
+      ],
+      "existing_source_urls": [
+        "https://www.andrewng.org/"
+      ],
+      "question": "What dated primary evidence establishes whether Andrew Ng held the role of Chairman and Co-Founder at Coursera on 2026-10-31, or establishes a period when the role was held?",
+      "evidence_requirements": [
+        "Find a dated primary passage tying the person, organization, and role to a start date, end date, period, or explicit status on the reference date.",
+        "Keep timing unresolved if the dated passage does not establish it. A retrieval timestamp or undated biography is insufficient."
+      ],
+      "preferred_source_types": [
+        "official_company_page",
+        "university_profile"
+      ]
+    },
+    {
+      "id": "timing_bf3d65c474cb4c84",
+      "kind": "unresolved_timing",
+      "priority": 3,
+      "role": {
+        "title": "Founder",
+        "organization": "DeepLearning.AI"
+      },
+      "evidence_refs": [
+        {
+          "collection_id": "20261031T011259Z-8d5c06",
+          "evidence_id": "E1"
+        }
+      ],
+      "existing_source_urls": [
+        "https://www.andrewng.org/"
+      ],
+      "question": "What dated primary evidence establishes whether Andrew Ng held the role of Founder at DeepLearning.AI on 2026-10-31, or establishes a period when the role was held?",
+      "evidence_requirements": [
+        "Find a dated primary passage tying the person, organization, and role to a start date, end date, period, or explicit status on the reference date.",
+        "Keep timing unresolved if the dated passage does not establish it. A retrieval timestamp or undated biography is insufficient."
+      ],
+      "preferred_source_types": [
+        "official_company_page",
+        "university_profile"
+      ]
+    },
+    {
+      "id": "timing_225f0860fcf711e5",
+      "kind": "unresolved_timing",
+      "priority": 3,
+      "role": {
+        "title": "Executive Chairman",
+        "organization": "LandingAI"
+      },
+      "evidence_refs": [
+        {
+          "collection_id": "20261031T011259Z-8d5c06",
+          "evidence_id": "E3"
+        }
+      ],
+      "existing_source_urls": [
+        "https://www.andrewng.org/"
+      ],
+      "question": "What dated primary evidence establishes whether Andrew Ng held the role of Executive Chairman at LandingAI on 2026-10-31, or establishes a period when the role was held?",
+      "evidence_requirements": [
+        "Find a dated primary passage tying the person, organization, and role to a start date, end date, period, or explicit status on the reference date.",
+        "Keep timing unresolved if the dated passage does not establish it. A retrieval timestamp or undated biography is insufficient."
+      ],
+      "preferred_source_types": [
+        "official_company_page",
+        "university_profile"
+      ]
+    },
+    {
+      "id": "timing_21b0511c8421f52b",
+      "kind": "unresolved_timing",
+      "priority": 3,
+      "role": {
+        "title": "Adjunct Professor",
+        "organization": "Stanford University"
+      },
+      "evidence_refs": [
+        {
+          "collection_id": "20261031T011259Z-8d5c06",
+          "evidence_id": "E5"
+        }
+      ],
+      "existing_source_urls": [
+        "https://www.andrewng.org/"
+      ],
+      "question": "What dated primary evidence establishes whether Andrew Ng held the role of Adjunct Professor at Stanford University on 2026-10-31, or establishes a period when the role was held?",
+      "evidence_requirements": [
+        "Find a dated primary passage tying the person, organization, and role to a start date, end date, period, or explicit status on the reference date.",
+        "Keep timing unresolved if the dated passage does not establish it. A retrieval timestamp or undated biography is insufficient."
+      ],
+      "preferred_source_types": [
+        "official_company_page",
+        "university_profile"
+      ]
+    }
+  ],
+  "review_queue": []
+}
